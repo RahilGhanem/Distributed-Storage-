@@ -1,0 +1,2 @@
+C:/Users/AMIRA/Desktop/Didtributed_Storage/distributed_storage_app/android/app/.cxx/Debug/2k319134/x86/CMakeFiles/edit_cache.dir
+C:/Users/AMIRA/Desktop/Didtributed_Storage/distributed_storage_app/android/app/.cxx/Debug/2k319134/x86/CMakeFiles/rebuild_cache.dir

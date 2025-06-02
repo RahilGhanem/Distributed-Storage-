@@ -1,0 +1,14 @@
+---tO CFREATE THE DATABASE ON POSTGRES
+
+psql -U postgres
+-enter your password 
+
+CREATE DATABASE distributedStorage;
+
+CREATE USER storage_admin WITH PASSWORD 'distributedStorage';
+
+GRANT ALL PRIVILEGES ON DATABASE distributedStorage TO storage_admin;
+
+
+to connect to the database created :
+ \c distributedstorage
